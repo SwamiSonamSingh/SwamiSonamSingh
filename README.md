@@ -10,6 +10,8 @@ You can click the Preview link to take a look at your changes.
 ------------------------------------------------------------------------------
 Links of my project
 -----------------------------------------------------------------------
+https://swamisonamsingh.github.io/amazon-clone
+-----------------------------------------------------------------------
 https://swamisonamsingh.github.io/geekstertask/ancestorTree/index.html
 ------------------------------------------------------------------------
 https://swamisonamsingh.github.io/geekstertask/bgVideo/index.html
