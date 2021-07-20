@@ -10,6 +10,8 @@ You can click the Preview link to take a look at your changes.
 ------------------------------------------------------------------------------
 Links of my project
 -----------------------------------------------------------------------
+https://tinder-clone5.herokuapp.com/
+--------------------------------------------
 https://swamisonamsingh.github.io/amazon-clone
 -----------------------------------------------------------------------
 https://swamisonamsingh.github.io/geekstertask/ancestorTree/index.html
