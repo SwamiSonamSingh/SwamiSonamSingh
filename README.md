@@ -10,6 +10,8 @@ You can click the Preview link to take a look at your changes.
 ------------------------------------------------------------------------------
 Links of my project
 -----------------------------------------------------------------------
+http://instagram4-clone.herokuapp.com/
+-------------------------------------------
 https://tinder-clone5.herokuapp.com/
 --------------------------------------------
 https://swamisonamsingh.github.io/amazon-clone
