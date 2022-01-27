@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @SwamiSonamSingh
-- 👀 I’m interested in only coding..
-- 🌱 I’m currently learning full stack developement
+- 🚀 I ❤️ DSA
+- 🏢 AVIZVA Solution pvt. ltd.
 - 📫 swamisonamkumarsingh576@gmail.com
